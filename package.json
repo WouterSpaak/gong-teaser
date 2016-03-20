@@ -1,0 +1,25 @@
+{
+  "name": "gong-teaser",
+  "version": "1.0.0",
+  "description": "Gong teaser page for new members.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WouterSpaak/gong-teaser.git"
+  },
+  "author": "Wouter Spaak",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/WouterSpaak/gong-teaser/issues"
+  },
+  "homepage": "https://github.com/WouterSpaak/gong-teaser#readme",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-sass": "^2.2.0",
+    "gulp-uglify": "^1.5.3",
+    "gulp-webserver": "^0.9.1"
+  }
+}
